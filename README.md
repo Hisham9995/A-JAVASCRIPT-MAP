@@ -1,2 +1,2 @@
-# A-JAVASCRIPT-MAP
-Building Interactive Map website Using JavaScript ,CSS and HTML  
+# A-JAVASCRIPT-Information about me
+Building a website Using JavaScript ,CSS and HTML  
