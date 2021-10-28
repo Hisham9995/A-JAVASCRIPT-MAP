@@ -10,4 +10,3 @@ I did create a webpage that can give details about Myself with a unique design  
 
 
 
-![Screenshot (903)](https://user-images.githubusercontent.com/82621077/139185271-6b916737-2cff-4690-86a3-bb16b1848999.png)
